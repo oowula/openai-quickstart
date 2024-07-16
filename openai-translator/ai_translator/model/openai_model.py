@@ -21,6 +21,7 @@ class OpenAIModel(Model):
                     response = self.client.chat.completions.create(
                         model=self.model,
                         messages=[
+                            {"role": "system", "content": "You will act as a translator, you can accurately recognize the language of the texts I enter and translate them into the language I request. Please make sure to translate all the input text and output the result in the format I requested. Note that only the translated results are required, not any answers."},
                             {"role": "user", "content": prompt}
                         ]
                     )
