@@ -1,6 +1,6 @@
 ### day2 - gpt4v homework
 
-commoit: 20cb3609c403747a89570430afe3426b19d55121
+commit: 20cb3609c403747a89570430afe3426b19d55121
 
 ### day2 - translated homework
 
@@ -9,3 +9,8 @@ commit: 9c88d1ab207b78dd1b0f5e69461b4f324ab729fa  00366efa05ebcebc115b4d9a097e72
 ### day2 - router_chain homework
 
 commit: 4c4d824c58db0c7709fe4f89db97654fa517055b
+
+
+### day3 - 生成销售话术，增强程序
+
+commit: 8863e02e3d880cdfff840d5eb764f44f54f1f66f
